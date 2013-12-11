@@ -22,9 +22,9 @@
 		<!-- end of Introduction -->
 		<!-- Groups -->
 		<section>
-			<h1>
+			<h2>
 				Groups
-			</h1>
+			</h2>
 			<p>
 				Odd roll numbers to the left <br>
 				Even roll numbers to the right
@@ -34,17 +34,149 @@
 
 		<!-- Project ideas -->
 		<section>
-			<h1>
+			<h2>
 				Project ideas
-			</h1>
+			</h2>
 			<p>
-				Odd roll numbers to the left <br>
-				Even roll numbers to the right
+				list of project ideas 
 			</p>
 		</section>		
 		<!-- end of groups -->
 
-		
+		<!-- Design -->
+		<section>
+			<h2>
+				What is design?
+			</h2>
+			<p>
+				
+			</p>
+		</section>		
+		<!-- end of design -->
+
+		<!-- examples -->
+		<section>
+			<h2>
+				Design examples
+			</h2>
+			<p>
+				
+			</p>
+		</section>		
+		<!-- end of examples -->
+
+		<!-- activity 1 -->
+		<section>
+			<h2>
+				Activity:
+			</h2>
+			<p>
+				List out as many ways to use almuminium foil in 60 seconds. 
+			</p>
+		</section>		
+		<!-- end of activity 1 -->
+
+		<!-- brainstorming -->
+		<section>
+			<h2>
+				Brainstorming
+			</h2>
+		</section>		
+		<section>
+			<h2>
+				Brainstorming techniques
+			</h2>
+			<p>
+				How to generate ideas
+			</p>
+		</section>
+
+		<section>
+			<h2>
+				Mind mapping
+			</h2>
+		</section>
+		<section>
+			<h2>
+				Activity 2:
+			</h2>
+			<p>
+				List of topics to brainstorm:
+			</p>
+			<ol>
+				<li>Brush
+				<li>Food
+				<li>Bike
+				<li>Guitar
+				<li>Chair 
+				<li>Football
+				<li>Spoon
+				<li>Bottle
+				<li>Coffee
+				<li>Computer
+			</ol>	
+		</section>
+
+		<section>
+			<h2>
+				Activity 3:
+			</h2>
+			<p>
+				List of topics to brainstorm:
+			</p>
+			<ol>
+				<li>Shoes
+				<li>Hair
+				<li>Tank
+				<li>Fan
+				<li>Jacket 
+				<li>Ladder
+				<li>Hat
+				<li>Plane
+				<li>Phone
+				<li>Pen
+			</ol>	
+		</section>
+		<section>
+			<h2>
+				Cross product
+			</h2>
+		</section>
+		<section>
+			<h2>
+				Activity 4:
+			</h2>
+			<p>
+				Use two elements from the mind map to come up with 3 different cross products
+			</p>
+			<ol>
+				<li>Brush -> Shoes
+				<li>Food -> Hair
+				<li>Computer -> Tank
+				<li>Chair -> Fan
+				<li>Bottle -> Jacket 
+				<li>Guitar -> Ladder
+				<li>Spoon -> Hat
+				<li>Football -> Plane
+				<li>Coffee -> Phone
+				<li>Bike -> Pen
+			</ol>	
+		</section>
+		<!-- end of brainstorming -->
+
+		<!-- endnding -->
+		<section>
+			<p>
+				Feedback
+			</p>
+			<p>
+				Certification
+			</p>
+			<p>
+				Commitment 
+			</p>
+		</section>
+		<!-- end of ending -->
 
 
 <!-- keep sections above this -->
