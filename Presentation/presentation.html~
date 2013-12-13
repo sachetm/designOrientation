@@ -60,7 +60,16 @@
 			<p >
 				<img src="images/goodSlide.png" />
 			</p>
-		</section>								
+		</section>
+
+		<section>
+			<h3>
+				What is the difference?
+			</h3>
+			<p class="fragment fade">
+				line tracking for class 7 students 
+			</p>
+		</section>																
 		<!-- end of Karkhana -->
 
 		<!-- Project ideas -->
