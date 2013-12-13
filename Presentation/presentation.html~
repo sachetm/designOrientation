@@ -16,8 +16,9 @@
 		<!-- Introduction -->
 		<section>
 			<p>
-				<img src="images/karkhana.png" />
+				<img id="karkhana" src="images/karkhana.png" />
 			</p>
+			<section>
 			<h3 class="fragment fade">
 				Group Divison
 			</h3>
@@ -30,8 +31,6 @@
 		
 		<!-- Karkhana -->
 		<section>
-			<p >
-				<img src="images/karkhana.png" />
 			</p>
 			<p class="fragment fade">
 				education
@@ -45,34 +44,34 @@
 			<p class="fragment fade">
 				STEAM
 			</p>
+			</section>
 		</section>				
 		<!-- end of Karkhana -->
 
-
-		<!-- slides -->
 		<section>
-			<p >
-				<img src="images/badSlide.png" />
-			</p>
-		</section>
+			<h3>Why Design?</h3>
+			<!-- slides -->
+			<section>
+				<p >
+					<img src="images/badSlide.png" />
+				</p>
+			</section>
 
-		<section>
-			<p >
-				<img src="images/goodSlide.png" />
-			</p>
+			<section>
+				<p >
+					<img src="images/goodSlide.png" />
+				</p>
+			</section>
 		</section>
-
+		
 		<section>
 			<h3>
 				What is the difference?
 			</h3>
 			<p class="fragment fade">
-				line tracking for class 7 students 
+				Line tracking for class 7 students 
 			</p>
-			<p class="fragment fade">
-				what is the change?
-			</p>
-		</section>																
+		</section>													
 		<!-- end of Karkhana -->
 
 		<!-- Project ideas -->
@@ -92,50 +91,47 @@
 
 		<!-- Design -->
 		<section>
-			<h2>
-				What is Design?<br><br><br>
+			<h2 id="design1">
+				What is Design?
 			</h2>
 		</section>
 		
 		<section>
-			<p>
-				Design is a <font size=44px">way of thinking</font>
+			<p id="thinking1" >
+				Design is a <font size="44px">way of thinking</font>
 			</p>
-			<img src="images/divergent.png" class="fragment fade">
-			<p class="fragment fade">
-				
-				<strong >Divergent Thinking</strong> = generating multiple ideas, solutions, or alternatives.
+			<img id="divergent" src="images/divergent.png" class="fragment fade">
+
+			<p id="thinking2" class="fragment fade">
+				<strong>Divergent Thinking</strong> = generating multiple ideas, solutions, or alternatives.
 			</p>
-			<p class="fragment fade">	
+			<p id="converget" class="fragment fade">	
 				<strong>Convergent Thinking</strong> = evaluating and selecting from among those alternatives.
 			</p>
-			<p class="fragment fade">
-				<strong>Divergent Thinking</strong>
-				<br>
-				Creativity to see many unique viewpoints<br>
-				Creativity to generate solutions from that viewpoint
-				<br>
+			<p id="design7" class="fragment fade">
+				<strong>Divergent Thinking</strong><br>
+ 					Creativity to see many unique viewpoints
+					Creativity to generate solutions from that viewpoint
 			</p>
 		</section>
-		
-		<section>
-			<p>Design is a <font size=44px">way of making</font></p>
-			<p class="fragment fade">Capability to understand, analyze, model and test view points</p>
+
+ 		<section>
+			<p>Design is a <font size="44px">way of making</font></p>
+			<p class="fragment fade">Capability to understand, analyse, model and test view points</p>
 			<p class="fragment fade"> <strong>Iterative</strong></p>
 			<img src="images/making.png" class="fragment fade">
 		</section>
-		
+				
 		<section>
-			<p>Design is a <font size=44px">way of experiencing</font></p>
-			<p class="fragment fade">Observe and emphatize: design for people</p>
-			<p class="fragment fade"> <strong>User-centric design</strong></p>
-			<p class="fragment fade">Understand people's tasks, goals and values</p>
-			<p class="fragment fade">Pay attention to people's abilities and situations</p>
-			<img src="images/exp1.png" class="fragment fade">
-			<img src="images/exp2.png" class="fragment fade">
-			<img src="images/exp3.png" class="fragment fade">
+			<p>Design is a <font size="44px">way of experiencing</font></p>
+			<p>Observe and emphatize: design for people</p>
+			<p> <strong>User-centric design</strong></p>
+			<p>Understand people's tasks, goals and values</p>
+			<p>Pay attention to people's abilities and situations</p>
+			<img src="images/exp1.png">
+			<img src="images/exp2.png">
+			<img src="images/exp3.png">
 		</section>
-
 		
 		<section>
 			<p><strong>Design</strong> is therefore</p>
@@ -151,10 +147,10 @@
 			<p class="fragment fade">patients stayed an patients stayed <strong>an average of 3.7 days</strong> fewer if they were exposed to morning light</p>
 			
 		</section>			
+
 		<section>
 		<img src="images/design2.png" class="fragment fade"">
 		<p class="fragment fade">Kids were terrified of getting MRIs but the new <strong>Pirate</strong> themed <strong>MRI</strong> design made it a <strong>fun</strong> experience.</p>
-			
 		</section>
 
 		<!-- end of design -->
@@ -164,10 +160,11 @@
 			<h2>
 				Activity:
 			</h2>
-			<img src="images/aluminium.PNG" class="fragment fade">
+			<img src="images/aluminium.png" class="fragment fade">
 			<p class="fragment fade">
 				Write down as many ways to use aluminium foil as possible 
 			</p>
+
 			<p class="fragment fade">
 				in 60 seconds
 			</p>			
@@ -191,9 +188,6 @@
 		</section>
 
 		<section>
-			<h2>Techniques</h2>
-		
-		<section>
 			<h3>Brainstorming</h3>
 			<img src="images/brain.png">
 		</section>
@@ -211,7 +205,6 @@
 		<section>
 			<h3>Cross Association</h3>
 			<img src="images/cross3.PNG">
-		</section>
 		</section>
 		
 		<section>
@@ -330,7 +323,7 @@
         	Reveal.initialize({
 
 		    // Display controls in the bottom right corner
-		    controls: false,
+		    controls: true,
 		    // Vertical centering of slides
 		    center: false,
 			history:true,
