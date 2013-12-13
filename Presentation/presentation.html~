@@ -18,21 +18,53 @@
 			<p>
 				<img src="images/karkhana.png" />
 			</p>
-		</section>		
-		<!-- end of Introduction -->
-		<!-- Groups -->
-		<section>
-			<h2>
-				Groups
-			</h2>
-			<p>
+			<h3 class="fragment fade">
+				Group Divison
+			</h3>
+			<p class="fragment fade">
 				Odd roll numbers to the left <br>
 				Even roll numbers to the right
 			</p>
 		</section>		
-		<!-- end of groups -->
+		<!-- end of Introduction -->
+		
+		<!-- Karkhana -->
+		<section>
+			<p >
+				<img src="images/karkhana.png" />
+			</p>
+			<p class="fragment fade">
+				education
+			</p>
+			<p class="fragment fade">
+				engineers
+			</p>
+			<p class="fragment fade">
+				hands-on curriculum
+			</p>
+			<p class="fragment fade">
+				STEAM
+			</p>
+		</section>				
+		<!-- end of Karkhana -->
+
+
+		<!-- slides -->
+		<section>
+			<p >
+				<img src="images/badSlide.png" />
+			</p>
+		</section>
+
+		<section>
+			<p >
+				<img src="images/goodSlide.png" />
+			</p>
+		</section>								
+		<!-- end of Karkhana -->
 
 		<!-- Project ideas -->
+
 		<section>
 			<h2>
 				Project ideas
@@ -46,12 +78,86 @@
 		<!-- Design -->
 		<section>
 			<h2>
-				What is design?
+				What is Design?<br><br><br>
 			</h2>
+		</section>
+		
+		<section>
+			<p>Design is a.....</p>
+			<p>way of thinking</p>
+		</section>
+		
+		<section>
 			<p>
-				
+				Design is a <font size=44px" color="green">way of thinking</font>
 			</p>
-		</section>		
+			<p>
+				<strong>Divergent Thinking</strong> = generating multiple ideas, solutions, or alternatives.
+			</p>
+			<p>	
+				<strong>Convergent Thinking</strong> = evaluating and selecting from among those alternatives.
+			</p>
+			<p>
+				<strong>Divergent Thinking</strong>
+				<br>
+				<ul>
+					<li>Creativity to see many unique viewpoints
+					<li>Creativity to generate solutions from that viewpoint</ul>
+				<br>
+			</p>
+			<img src="images/salute.PNG">
+			<img src="images/divergent.PNG">
+		</section>
+		
+		<section>
+			<p>Design is a.....</p>
+			<p>way of making</p>
+		</section>
+		
+		<section>
+			<p>Design is a <font size=44px" color="green">way of making</font></p>
+			<p>Capability to understand, analyze, model and test view points</p>
+			<p> <strong>Iterative</strong></p>
+			<img src="images/making.PNG">
+		</section>
+		
+		<section>
+			<p>Design is a.....</p>
+			<p>way of experiencing</p>
+		</section>
+		
+		<section>
+			<p>Design is a <font size=44px" color="green">way of experiencing</font></p>
+			<p>Observe and emphatize: design for people</p>
+			<p> <strong>User-centric design</strong></p>
+			<p>Understand people's tasks, goals and values</p>
+			<p>Pay attention to people's abilities and situations</p>
+			<img src="images/exp1.PNG">
+			<img src="images/exp2.PNG">
+			<img src="images/exp3.PNG">
+		</section>
+
+		
+		<section>
+			<p><strong>Design</strong> is therefore</p>
+			<p><strong>Thinking</strong> divergently,</p>
+			<p><strong>making</strong> iteratively, and</p>
+			<p><strong>experiencing</strong> emphatically</p>
+		</section>
+		
+		<section>
+			<p> <strong>Design</strong> is about life...</p>
+			<p>and death</p>
+			<p>patients stayed an patients stayed <strong>an average of 3.7 days</strong> fewer if they were exposed to morning light</p>
+			<img src="images/design1.PNG">
+			<p>Kids were terrified of getting MRIs but the new <strong>Pirate</strong> themed <strong>MRI</strong> design made it a <strong>fun</strong> experience.</p>
+			<img src="images/design2.PNG">
+		</section>
+
+		<section>
+			<h2>Design for Projects?</h2>
+		</section>
+		
 		<!-- end of design -->
 
 		<!-- examples -->
@@ -71,15 +177,17 @@
 				Activity:
 			</h2>
 			<p>
-				List out as many ways to use almuminium foil in 60 seconds. 
+				Write down as many ways to use aluminium foil as possible in 60 seconds. 
 			</p>
+			<img src="images/aluminium.PNG"</img>
+
 		</section>		
 		<!-- end of activity 1 -->
 
 		<!-- brainstorming -->
 		<section>
 			<h2>
-				Brainstorming
+				Brainstorming and Innovation
 			</h2>
 		</section>		
 		<section>
@@ -89,6 +197,56 @@
 			<p>
 				How to generate ideas
 			</p>
+		</section>
+
+		<section>
+			<h2>Techniques: What we're aiming for?</h2>
+			<img src="images/picaso.PNG">
+			<p>"I begin with an idea and then it becomes <strong>something else</strong>."</p>
+			<p><strong>-Pablo Picaso</strong></p>
+			<img src="images/einstein.PNG">
+			<p>"If at first, the idea is not <strong>absurd</strong>, then there is no hope for it."</p>
+			<p><strong>-Albert Einstein</strong></p>
+		</section>
+		
+		<section>
+			<h2>Techniques</h2>
+		
+		<section>
+			<h3>Brainstorming</h3>
+			<img src="images/brain.PNG">
+		</section>
+		
+		<section>
+			<h3>Mind-mapping</h3>
+			<img src="images/mindmap1.PNG">
+		</section>
+		
+		<section>
+			<h3>Cross Association</h3>
+			<img src="images/cross1.PNG">
+		</section>
+		
+		<section>
+			<h3>Cross Association</h3>
+			<img src="images/cross3.PNG">
+		</section>
+		</section>
+		
+		<section>
+			<h3>Cross-Association</h3>
+			<img src="images/cross4.PNG">
+			<section>
+				<img src="images/cross5.PNG">
+			</section>
+		</section>
+		
+		<section>
+			<h3>Cross-Association</h3>
+			<img src="images/cross6.PNG">
+			<section>
+				<img src="images/cross7.PNG">
+			</section>
 		</section>
 
 		<section>
@@ -166,6 +324,9 @@
 
 		<!-- endnding -->
 		<section>
+			<h2>
+				Up next
+			</h2>
 			<p>
 				Feedback
 			</p>
