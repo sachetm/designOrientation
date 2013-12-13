@@ -69,6 +69,9 @@
 			<p class="fragment fade">
 				line tracking for class 7 students 
 			</p>
+			<p class="fragment fade">
+				what is the change?
+			</p>
 		</section>																
 		<!-- end of Karkhana -->
 
@@ -78,8 +81,11 @@
 			<h2>
 				Project ideas
 			</h2>
-			<p>
+			<p class="fragment fade">
 				list of project ideas 
+			</p>
+			<p class="fragment fade">
+				have you thought about design in the projects
 			</p>
 		</section>		
 		<!-- end of groups -->
@@ -92,103 +98,79 @@
 		</section>
 		
 		<section>
-			<p>Design is a.....</p>
-			<p>way of thinking</p>
-		</section>
-		
-		<section>
 			<p>
-				Design is a <font size=44px" color="green">way of thinking</font>
+				Design is a <font size=44px">way of thinking</font>
 			</p>
-			<p>
-				<strong>Divergent Thinking</strong> = generating multiple ideas, solutions, or alternatives.
+			<img src="images/divergent.png" class="fragment fade">
+			<p class="fragment fade">
+				
+				<strong >Divergent Thinking</strong> = generating multiple ideas, solutions, or alternatives.
 			</p>
-			<p>	
+			<p class="fragment fade">	
 				<strong>Convergent Thinking</strong> = evaluating and selecting from among those alternatives.
 			</p>
-			<p>
+			<p class="fragment fade">
 				<strong>Divergent Thinking</strong>
 				<br>
-				<ul>
-					<li>Creativity to see many unique viewpoints
-					<li>Creativity to generate solutions from that viewpoint</ul>
+				Creativity to see many unique viewpoints<br>
+				Creativity to generate solutions from that viewpoint
 				<br>
 			</p>
-			<img src="images/salute.PNG">
-			<img src="images/divergent.PNG">
 		</section>
 		
 		<section>
-			<p>Design is a.....</p>
-			<p>way of making</p>
+			<p>Design is a <font size=44px">way of making</font></p>
+			<p class="fragment fade">Capability to understand, analyze, model and test view points</p>
+			<p class="fragment fade"> <strong>Iterative</strong></p>
+			<img src="images/making.png" class="fragment fade">
 		</section>
 		
 		<section>
-			<p>Design is a <font size=44px" color="green">way of making</font></p>
-			<p>Capability to understand, analyze, model and test view points</p>
-			<p> <strong>Iterative</strong></p>
-			<img src="images/making.PNG">
-		</section>
-		
-		<section>
-			<p>Design is a.....</p>
-			<p>way of experiencing</p>
-		</section>
-		
-		<section>
-			<p>Design is a <font size=44px" color="green">way of experiencing</font></p>
-			<p>Observe and emphatize: design for people</p>
-			<p> <strong>User-centric design</strong></p>
-			<p>Understand people's tasks, goals and values</p>
-			<p>Pay attention to people's abilities and situations</p>
-			<img src="images/exp1.PNG">
-			<img src="images/exp2.PNG">
-			<img src="images/exp3.PNG">
+			<p>Design is a <font size=44px">way of experiencing</font></p>
+			<p class="fragment fade">Observe and emphatize: design for people</p>
+			<p class="fragment fade"> <strong>User-centric design</strong></p>
+			<p class="fragment fade">Understand people's tasks, goals and values</p>
+			<p class="fragment fade">Pay attention to people's abilities and situations</p>
+			<img src="images/exp1.png" class="fragment fade">
+			<img src="images/exp2.png" class="fragment fade">
+			<img src="images/exp3.png" class="fragment fade">
 		</section>
 
 		
 		<section>
 			<p><strong>Design</strong> is therefore</p>
-			<p><strong>Thinking</strong> divergently,</p>
-			<p><strong>making</strong> iteratively, and</p>
-			<p><strong>experiencing</strong> emphatically</p>
+			<p class="fragment fade"><strong>Thinking</strong> divergently,</p>
+			<p class="fragment fade"><strong>making</strong> iteratively, and</p>
+			<p class="fragment fade"><strong>experiencing</strong> emphatically</p>
 		</section>
 		
 		<section>
 			<p> <strong>Design</strong> is about life...</p>
-			<p>and death</p>
-			<p>patients stayed an patients stayed <strong>an average of 3.7 days</strong> fewer if they were exposed to morning light</p>
-			<img src="images/design1.PNG">
-			<p>Kids were terrified of getting MRIs but the new <strong>Pirate</strong> themed <strong>MRI</strong> design made it a <strong>fun</strong> experience.</p>
-			<img src="images/design2.PNG">
+			<p class="fragment fade">and death</p>
+			<img src="images/design1.png" class="fragment fade">
+			<p class="fragment fade">patients stayed an patients stayed <strong>an average of 3.7 days</strong> fewer if they were exposed to morning light</p>
+			
+		</section>			
+		<section>
+		<img src="images/design2.png" class="fragment fade"">
+		<p class="fragment fade">Kids were terrified of getting MRIs but the new <strong>Pirate</strong> themed <strong>MRI</strong> design made it a <strong>fun</strong> experience.</p>
+			
 		</section>
 
-		<section>
-			<h2>Design for Projects?</h2>
-		</section>
-		
 		<!-- end of design -->
-
-		<!-- examples -->
-		<section>
-			<h2>
-				Design examples
-			</h2>
-			<p>
-				
-			</p>
-		</section>		
-		<!-- end of examples -->
 
 		<!-- activity 1 -->
 		<section>
 			<h2>
 				Activity:
 			</h2>
-			<p>
-				Write down as many ways to use aluminium foil as possible in 60 seconds. 
+			<img src="images/aluminium.PNG" class="fragment fade">
+			<p class="fragment fade">
+				Write down as many ways to use aluminium foil as possible 
 			</p>
-			<img src="images/aluminium.PNG"</img>
+			<p class="fragment fade">
+				in 60 seconds
+			</p>			
 
 		</section>		
 		<!-- end of activity 1 -->
@@ -196,7 +178,7 @@
 		<!-- brainstorming -->
 		<section>
 			<h2>
-				Brainstorming and Innovation
+				Brainstorming
 			</h2>
 		</section>		
 		<section>
@@ -208,16 +190,6 @@
 			</p>
 		</section>
 
-		<section>
-			<h2>Techniques: What we're aiming for?</h2>
-			<img src="images/picaso.PNG">
-			<p>"I begin with an idea and then it becomes <strong>something else</strong>."</p>
-			<p><strong>-Pablo Picaso</strong></p>
-			<img src="images/einstein.PNG">
-			<p>"If at first, the idea is not <strong>absurd</strong>, then there is no hope for it."</p>
-			<p><strong>-Albert Einstein</strong></p>
-		</section>
-		
 		<section>
 			<h2>Techniques</h2>
 		
