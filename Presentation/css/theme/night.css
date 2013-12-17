@@ -10,7 +10,9 @@
  *********************************************/
 body {
   background:url("../../images/karkhana-small.png") no-repeat bottom right #111111;
-  background-color: #111111; }
+  background-color: #111111; 
+}
+
 
 .reveal {
   font-family: "Open Sans", sans-serif;
